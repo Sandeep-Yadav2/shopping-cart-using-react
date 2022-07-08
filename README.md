@@ -1,5 +1,8 @@
 ![alt-text](https://github.com/Sandeep-Yadav2/shopping-cart-using-react/blob/main/shoppingCartImage.PNG)
 
+Note : this Project is using dummy API which from where we fetching photos , I have added the API response in JSONFile and attached to this repository, 
+       to convert thisin to API we have to copy the API response from file and open "https://myjson.dit.upm.es/" and paste here it will generate the API , the same api url have to paste in the buyPage component to load the url.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
