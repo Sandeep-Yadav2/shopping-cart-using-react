@@ -1,3 +1,5 @@
+![alt-text](https://github.com/Sandeep-Yadav2/shopping-cart-using-react/blob/main/shoppingCartImage.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -35,8 +37,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 
-# Shopping Cart Image :
-![alt text](http://url/to/shoppingCartImage.png)
+
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
